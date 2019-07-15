@@ -10,13 +10,12 @@ An easy to use server to synchronize profiles
 
 #	Starting the server
 
-The final configuration is done with swagger. 
+The final configuration is done with swagger.   
 Visit http://*server_IP_address*:*server_port*/swagger-ui.html
 
 The default login values are:
 
-User name: admin
-
+User name: admin   
 Password: password
 
 This needs to be changed as soon as possible under: src/main/resources/application.properties
