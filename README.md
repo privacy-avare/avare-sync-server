@@ -22,7 +22,7 @@ This needs to be changed as soon as possible under: src/main/resources/applicati
 
 On swagger a ‘‘profiles‘‘ data base has to be generated. Just follow these four last steps and the server is ready and running.
 
-![alt text](https://github.com/privacy-avare/avare-sync-server/blob/master/src/images/swagger.jpg "Logo Title Text 1")
+![alt text](https://github.com/privacy-avare/avare-resources/blob/master/swagger.jpg "image")
 
  
   
